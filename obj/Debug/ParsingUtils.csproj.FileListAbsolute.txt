@@ -1,0 +1,11 @@
+C:\Users\Christianb\RiderProjects\Development\ParsingUtils\bin\Debug\ParsingUtils.dll
+C:\Users\Christianb\RiderProjects\Development\ParsingUtils\bin\Debug\ParsingUtils.pdb
+C:\Users\Christianb\RiderProjects\Development\ParsingUtils\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Christianb\RiderProjects\Development\ParsingUtils\bin\Debug\sapnco.dll
+C:\Users\Christianb\RiderProjects\Development\ParsingUtils\bin\Debug\sapnco_utils.dll
+C:\Users\Christianb\RiderProjects\Development\ParsingUtils\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Christianb\RiderProjects\Development\ParsingUtils\obj\Debug\ParsingUtils.csproj.AssemblyReference.cache
+C:\Users\Christianb\RiderProjects\Development\ParsingUtils\obj\Debug\ParsingUtils.csproj.CoreCompileInputs.cache
+C:\Users\Christianb\RiderProjects\Development\ParsingUtils\obj\Debug\ParsingUtils.csproj.CopyComplete
+C:\Users\Christianb\RiderProjects\Development\ParsingUtils\obj\Debug\ParsingUtils.dll
+C:\Users\Christianb\RiderProjects\Development\ParsingUtils\obj\Debug\ParsingUtils.pdb
